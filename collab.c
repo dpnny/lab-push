@@ -27,6 +27,7 @@ void drodr31_vsymon2()
   printf("Daniel Rodriguez and Vlad Symonenko\n");
   printf("We learned how to clone repos and how to push updated code\n");
 }
+
 int main()
 {
   printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
